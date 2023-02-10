@@ -1,17 +1,11 @@
-# Nome do meu projeto
+# Login / Register Page with Bootstrap
 
-Rápida descrição do objetivo de fazer esse projeto
+Página de login e registro feito com a tecnologia de formulários do Bootstrap.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Login / Register Page with Bootstrap**
+| :label: Tecnologias | html, css, bootstrap (tecnologias utilizadas)
+| :rocket: URL         | https://volaxy.github.io/Login_Page_com_Bootstrap/
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+![Junção das 2 páginas](./img/site.png#vitrinedev)
